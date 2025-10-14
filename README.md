@@ -11,8 +11,10 @@ Arch BTW
 3. rofi
 4. hyprland
 5. hyprpaper
-6. waybar
-7. mako
+6. hyprlock
+7. hypridle
+8. waybar
+9. mako
 
 ### Packages i use from the base pacman repos.
 
@@ -40,7 +42,9 @@ Arch BTW
 22. slurp
 23. wl-clipboard
 24. nerd-fonts
-25. xdg-desktop-portal-gt
+25. xdg-desktop-portal-gtk
+26. hyprlock
+27. hypridle
 
 ### Packages from the aur i use.
 1. hyprshot
