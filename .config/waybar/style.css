@@ -21,7 +21,10 @@
   #workspaces button {
     padding: 0 5px;
     color: #ebdbb2;
-    border-radius: 12px;
+    background: #303446;
+    border-radius: 25px;
+    margin-left: 3px;
+    margin-right: 3px;
   }
   
   #workspaces button.focused {
@@ -160,10 +163,7 @@
   @keyframes blink {
     to {
       color: #ebdbb2;
-    }
-  }
-  #custom-spotify {
-    color: rgb(102, 220, 105);
+       }
   }
   
   label:focus {
