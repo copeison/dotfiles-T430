@@ -4,10 +4,10 @@
   "mode": "dock",
   "modules-left": ["tray", "hyprland/workspaces", "hyprland/submap"],
   "modules-center":["wlr/taskbar"],
-  "modules-right": ["custom/spotify", "pulseaudio", "backlight", "battery", "clock"],
+  "modules-right": ["custom/spotify", "pulseaudio", "battery", "clock"],
   
   "clock": {
-    "format": "{:%I:%M:%S %p}  ",
+    "format": "{:%I:%M %p}  ",
     //"format-alt": "{:%a, %B %d, %Y (%I:%M:%S %p)}  ",
     "tooltip-format": "<tt><small>{calendar}</small></tt>",
     "calendar": {

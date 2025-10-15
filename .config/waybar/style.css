@@ -7,7 +7,7 @@
   }
   
   window#waybar {
-    background-color: rgba(48, 52, 70, 0.70);
+    background-color: rgba(48, 52, 70, 0.0);
     color: #303446;
     transition-property: background-color;
     transition-duration: 0.5s;
@@ -21,7 +21,7 @@
   #workspaces button {
     padding: 0 5px;
     color: #ebdbb2;
-    border-radius: 5px;
+    border-radius: 12px;
   }
   
   #workspaces button.focused {
@@ -118,24 +118,43 @@
   #temperature,
   #battery,
   #clock
-  
+
   #pulseaudio {
       color: #A6D189;
+      background: #303446;
+      border-radius: 25px;
+      margin-left: 3px;
+      margin-right: 3px;
   }
   
   #backlight {
       color: #458588;
+      background: #303446;
+      border-radius: 12px;
+      margin-left: 3px;
+      margin-right: 3px;
   }
   
   #temperature {
       color: #cc241d;
+      background: #303446;
+      border-radius: 25px;
+      margin-left: 3px;
+      margin-right: 3px;
   }
   
   #clock {
       color: #C6D0F5;
+      background: #303446;
+      border-radius: 25px;
+      margin-left: 3px;
   }
 
   #tray {
+      background: #303446;
+      border-radius: 25px;
+      padding-left:  8px;
+      padding-right: 8px;
   }
   
   @keyframes blink {
