@@ -53,3 +53,7 @@ Arch BTW
 
 1. flatseal
 2. Zen Browser
+3. Gear lever
+
+### Appimages i use
+1. Winboat
