@@ -25,7 +25,7 @@ Arch BTW
 5. code
 6. flatpak
 7. lightdm
-8. lightdm-greeter-gtk
+8. lightdm-gtk-greeter
 9. networkmanager
 10. nemo
 11. git
