@@ -45,6 +45,7 @@ Arch BTW
 25. xdg-desktop-portal-gtk
 26. hyprlock
 27. hypridle
+28. Bluetui
 
 ### Packages from the aur i use.
 1. hyprshot
@@ -57,3 +58,7 @@ Arch BTW
 
 ### Appimages i use
 1. Winboat
+
+### Other Software i use
+1. AB Download Manager
+2. Cider
