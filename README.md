@@ -10,11 +10,10 @@ Arch BTW
 2. zsh
 3. rofi
 4. hyprland
-5. hyprpaper
-6. hyprlock
-7. hypridle
-8. waybar
-9. mako
+5. hyprlock
+6. hypridle
+7. waybar
+8. mako
 
 ### Packages i use from the base pacman repos.
 
@@ -33,23 +32,23 @@ Arch BTW
 13. discord
 14. hyprland
 15. waybar
-16. hyprpaper
-17. gnome-keyring
-18. xdg-desktop-portal-hyprland
-19. mako
-20. hyprpolkitagent
-21. grim
-22. slurp
-23. wl-clipboard
-24. nerd-fonts
-25. xdg-desktop-portal-gtk
-26. hyprlock
-27. hypridle
-28. Bluetui
+16. gnome-keyring
+17. xdg-desktop-portal-hyprland
+18. mako
+19. hyprpolkitagent
+20. grim
+21. slurp
+22. wl-clipboard
+23. nerd-fonts
+24. xdg-desktop-portal-gtk
+25. hyprlock
+26. hypridle
+27. Bluetui
 
 ### Packages from the aur i use.
 1. hyprshot
-2. mpvpaper
+2. awww-git
+3. waypaper
 
 ### Flatpaks i use
 
