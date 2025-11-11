@@ -49,6 +49,7 @@ Arch BTW
 
 ### Packages from the aur i use.
 1. hyprshot
+2. mpvpaper
 
 ### Flatpaks i use
 
